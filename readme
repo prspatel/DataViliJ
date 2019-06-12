@@ -1,0 +1,2 @@
+A JavaFX data visualization application that allows the user to select some given data and an algorithm to see how changes occur dynamically. ViLiJ, a visualization library framework, plots the data on a 2-D (X-Y) plane. XMLUtil, a utility module, was used to parse XML files.
+
